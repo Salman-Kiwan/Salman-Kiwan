@@ -1,40 +1,35 @@
-# Hi, I'm Salman Kiwan 👋
+![Profile Banner](https://user-images.githubusercontent.com/your-image-link-if-any.png)
 
-Welcome to my GitHub profile!  
-I'm a passionate developer skilled in **JavaScript**, **HTML**, **CSS**, and **Tailwind CSS**, building responsive and modern web interfaces.
+# 👋 Hello, I'm Salman Kiwan
 
----
+### Software Developer & Aspiring Full-Stack Engineer
 
-## About Me
+I’m a passionate developer specializing in JavaScript, HTML, CSS, and Tailwind CSS, crafting responsive and engaging web experiences.
 
-- ☕ Experienced in **Java programming**, including multithreading and backend logic (console applications).  
-- 🐘 Familiar with **PHP** and **MySQL** for backend and database management.  
-- 🚀 Currently expanding my full-stack development skills with ongoing learning in modern frameworks and scalable architectures.  
-- 🌱 Committed to writing clean, maintainable code and continuous improvement.  
-
----
-
-## What I’m Learning
-
-- Full-stack development (JavaScript frameworks, backend APIs)  
-- Advanced CSS techniques and UI/UX design principles  
-- Deployment and cloud services integration
+- ☕ Experienced with Java fundamentals, including multithreading and backend logic  
+- 🐘 Proficient with PHP and MySQL for backend development and database management  
+- 🚀 Expanding my full-stack skill set with modern frameworks and scalable architectures  
+- 🌱 Focused on clean code, performance, and continuous learning  
 
 ---
 
-## Projects & Interests
+### Languages & Tools
 
-- Responsive landing pages with scroll animations and smooth UX  
-- E-commerce platforms and payment gateway integration  
-- Backend services and database-driven applications
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
 ---
 
-## Let’s Connect
+### Connect with me
 
-Feel free to explore my repos and reach out via GitHub!  
+Feel free to explore my projects and reach out anytime!  
 *Contact info coming soon.*
 
 ---
 
-Thanks for visiting my profile! 🚀
+Thanks for stopping by! 🚀
