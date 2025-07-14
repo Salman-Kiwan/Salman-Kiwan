@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Salman Kiwan 👋
 
-<!--
-**Salman-Kiwan/Salman-Kiwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm a passionate developer skilled in **JavaScript**, **HTML**, **CSS**, and **Tailwind CSS**, building responsive and modern web interfaces.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- ☕ Experienced in **Java programming**, including multithreading and backend logic (console applications).  
+- 🐘 Familiar with **PHP** and **MySQL** for backend and database management.  
+- 🚀 Currently expanding my full-stack development skills with ongoing learning in modern frameworks and scalable architectures.  
+- 🌱 Committed to writing clean, maintainable code and continuous improvement.  
+
+---
+
+## What I’m Learning
+
+- Full-stack development (JavaScript frameworks, backend APIs)  
+- Advanced CSS techniques and UI/UX design principles  
+- Deployment and cloud services integration
+
+---
+
+## Projects & Interests
+
+- Responsive landing pages with scroll animations and smooth UX  
+- E-commerce platforms and payment gateway integration  
+- Backend services and database-driven applications
+
+---
+
+## Let’s Connect
+
+Feel free to explore my repos and reach out via GitHub!  
+*Contact info coming soon.*
+
+---
+
+Thanks for visiting my profile! 🚀
