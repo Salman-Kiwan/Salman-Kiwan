@@ -1,5 +1,3 @@
-![Profile Banner](https://user-images.githubusercontent.com/your-image-link-if-any.png)
-
 # 👋 Hello, I'm Salman Kiwan
 
 ### Software Developer & Aspiring Full-Stack Engineer
