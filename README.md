@@ -12,7 +12,7 @@ I’m a passionate developer specializing in JavaScript, HTML, CSS, and Tailwind
 ---
 
 ### Languages & Tools
-<p align="center">
+<p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="48" style="margin: 10px;" />
   </a>
