@@ -20,6 +20,9 @@ I’m a passionate developer specializing in JavaScript, HTML, CSS, and Tailwind
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
+
 
 ---
 
