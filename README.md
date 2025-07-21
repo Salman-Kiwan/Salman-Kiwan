@@ -13,7 +13,8 @@ I’m a passionate developer specializing in JavaScript, HTML, CSS, and Tailwind
 
 ### Languages & Tools
 
-<img src="<!DOCTYPE html>
+
+[Uploading Document1.html…]<!DOCTYPE html>
 <!-- saved from url=(0032)http://127.0.0.1:5501/index.html -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
@@ -127,7 +128,7 @@ I’m a passionate developer specializing in JavaScript, HTML, CSS, and Tailwind
       display: none !important;
     }
   }
-</style><div><div class="gf-app"></div></div></template></div></body></html>"/>
+</style><div><div class="gf-app"></div></div></template></div></body></html>()
 
 
 
