@@ -12,7 +12,7 @@ I’m a passionate developer specializing in JavaScript, HTML, CSS, and Tailwind
 ---
 
 ### Languages & Tools
-<p align="center">
+<p >
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50" height="50" style="margin: 10px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="50" height="50" style="margin: 10px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="50" height="50" style="margin: 10px;" />
