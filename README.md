@@ -21,6 +21,15 @@ I’m a passionate developer specializing in JavaScript, HTML, CSS, and Tailwind
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="40" height="40" />
   </span>
   
+<p align="center">
+  <span style="display:inline-block; background:#1e1e1e; padding:10px 15px; border-radius:12px; margin:8px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" height="40" />
+  </span>
+  
+  <span style="display:inline-block; background:#e34c26; padding:10px 15px; border-radius:12px; margin:8px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="40" height="40" />
+  </span>
+  
   <span style="display:inline-block; background:#264de4; padding:10px 15px; border-radius:12px; margin:8px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="40" height="40" />
   </span>
@@ -49,6 +58,7 @@ I’m a passionate developer specializing in JavaScript, HTML, CSS, and Tailwind
     <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" width="40" height="40" />
   </span>
 </p>
+
 
 
 
