@@ -13,14 +13,28 @@ I’m a passionate developer specializing in JavaScript, HTML, CSS, and Tailwind
 
 ### Languages & Tools
 <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="height: 30px; margin-right:10px" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="height: 30px; margin-right:10px" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="height: 30px; margin-right:10px" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="height: 30px; margin-right:10px" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" style="height: 30px; margin-right:10px" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" style="height: 30px; margin-right:10px" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" style="height: 30px; margin-right:10px" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="height: 30px; margin-right:10px" />
+# Tech Stack Icons - CDN Links
+
+## Frontend
+- HTML5: `https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg`
+- CSS3: `https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg`
+- JavaScript: `https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg`
+- TypeScript: `https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg`
+- React: `https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg`
+- Tailwind: `https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg`
+
+## Backend
+- Node.js: `https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg`
+- Express: `https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg`
+- PHP: `https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg`
+- Java: `https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg`
+
+## Database
+- MySQL: `https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg`
+- Prisma: `https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/prisma.svg`
+
+## Tools
+- Git: `https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg`
 </div>
 
 
