@@ -12,7 +12,7 @@ I’m a passionate developer specializing in JavaScript, HTML, CSS, and Tailwind
 ---
 
 ### Languages & Tools
-<div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
+
 # Tech Stack Icons - CDN Links
 
 ## Frontend
@@ -35,7 +35,7 @@ I’m a passionate developer specializing in JavaScript, HTML, CSS, and Tailwind
 
 ## Tools
 - Git: `https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg`
-</div>
+
 
 
 
