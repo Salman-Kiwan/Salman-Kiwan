@@ -38,7 +38,6 @@ I’m a passionate developer specializing in JavaScript, HTML, CSS, and Tailwind
 
 
 
-
 ---
 
 ### Connect with me
